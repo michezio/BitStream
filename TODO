@@ -1,7 +1,0 @@
-
-Todo:
-  ✔ Implement BitStream class @done(19-08-22 19:39)
-  ☐ Implement FileBitStream class
-     ☐ Handle taking single bit from file
-     ☐ Handle taking chunks of bits from file
-     ☐ Create a whole bitstream from entire file
